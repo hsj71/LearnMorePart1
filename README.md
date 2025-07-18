@@ -1,6 +1,6 @@
 # LearnMorePart1
 
-# Learn More - Programming Language Resources
+## Learn More - Programming Language Resources
 
 A React + Vite based educational web app that displays resource cards for 20 programming languages. Each language has its own page with:
 - 🌐 Official Website
@@ -10,7 +10,7 @@ A React + Vite based educational web app that displays resource cards for 20 pro
 
 ---
 
-📁 Project Structure:
+##📁 Project Structure:
 ```
 src/
 ├── components/
@@ -55,10 +55,27 @@ src/
 
 ---
 
-🌐 Built with:
+## 🌐 Built with:
 - React
 - Vite
 - Bootstrap
 - React Router DOM
+---
+<p align="center">
+  <img src="https://github.com/hsj71/LearnMorePart1/blob/main/Screenshot%20(858).png" alt="NoView" width="700"/>
+</p>
+<p align="center">
+  <img src="https://github.com/hsj71/LearnMorePart1/blob/main/Screenshot%20(859).png" alt="NoView" width="700"/>
+</p>
+<p align="center">
+  <img src="https://github.com/hsj71/LearnMorePart1/blob/main/Screenshot%20(860).png" alt="NoView" width="700"/>
+</p>
+<p align="center">
+  <img src="https://github.com/hsj71/LearnMorePart1/blob/main/Screenshot%20(861).png" alt="NoView" width="700"/>
+</p>
+<p align="center">
+  <img src="https://github.com/hsj71/LearnMorePart1/blob/main/Screenshot%20(862).png" alt="NoView" width="700"/>
+</p>
+---
 
-Made by Hrishikesh ✨
+### Made by Hrishikesh ✨
