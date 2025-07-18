@@ -11,7 +11,7 @@ A React + Vite based educational web app that displays resource cards for 20 pro
 ---
 
 📁 Project Structure:
-
+```
 src/
 ├── components/
 │   ├── LanguageCards.jsx
@@ -39,7 +39,7 @@ src/
 │       └── Assembly.jsx
 ├── App.jsx
 └── main.jsx
-
+```
 ---
 
 🛠️ Setup Instructions:
